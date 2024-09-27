@@ -1,0 +1,33 @@
+body{ 
+background-color: white;
+
+max-width:100%;
+margin:0 auto;
+
+}
+header {
+    text-align: center;
+    
+    margin: auto;
+    margin-top: 15%;
+
+}
+
+nav {
+    background-color: white;
+    max-width: 20%;
+    padding: 3%;
+    height: 100vh;
+    position:fixed;
+    top: 0;
+    left: 0;
+}
+main{
+    max-width: 65%;
+    padding: 3%;
+    margin-left:30% ;
+    background-color: #9e362b;
+}
+footer{
+    background-color: brown;
+}
